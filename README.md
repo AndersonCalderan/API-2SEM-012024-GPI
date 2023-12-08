@@ -2,7 +2,7 @@
 # 🎓Aprendizado por Projeto Integrado (API)
 
 <p align="center">
- <img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/Blue%20and%20White%20Circuit%20Technology%20Logo.png" width="100%"/>
+ <img src="https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Imagem/github.png" width="100%"/>
 </p>
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
@@ -27,11 +27,11 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 29/08/2023 | concluido| [Ver Relatório](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/KickOff/Relatorio%20KickOff.pdf) | 
-|01 | 24/09/2023 | concluido| [Ver Relatório](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/documento/Resumo%20da%20sprint%201.pdf) | 
-|02|  15/10/2023| concluido|[Ver Relatório](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%202/documento/Resumo%20sprint%202.pdf) | 
-|03| 05/11/2023 | concluido|[Ver Relatório](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%203/documento/Resumo%20sprint%203.pdf) | 
-|04| 26/11/2023 |concluido|[Ver Relatório](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%204/Feira-de-Solu%C3%A7%C3%B5es/Relat%C3%B3rio/Resusmo%20relatorio.pdf) |
+|Kick Off | 29/08/2023 | concluido| [Ver Relatório]() | 
+|01 | 24/09/2023 | concluido| [Ver Relatório]() | 
+|02|  15/10/2023| concluido|[Ver Relatório]() | 
+|03| 05/11/2023 | concluido|[Ver Relatório]() | 
+|04| 26/11/2023 |concluido|[Ver Relatório]() |
 |Feira de Soluções|12/12/2023 |em progresso |[Ver Relatório]() | 
 
 # 🚦Status do Projeto
@@ -41,7 +41,7 @@ Sprint | Previsão | Status| Histórico|
 # 👩‍💻Equipe
 
 <p align="center">
- <img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/Apresenta%C3%A7%C3%A3o%20Equipe.png" width="100%"/>
+ <img src="https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Imagem/github.png" width="100%"/>
 </p>
 
 # 🎯Objetivo do Projeto
@@ -59,35 +59,35 @@ A equipe INNOV8TION ira realizar um planejamento estratégico para a empresa Doc
 ## Sprint 1 
 A Innov8tion entregou ao nosso cliente Doce Sabor as demandas solicitadas: Análise Swot / Proposta de redução de custos / Proposta para impulsionar as vendas 
 
-[![SPRINT 1](https://img.youtube.com/vi/DHCp3u1rCM8/0.jpg)](https://youtu.be/DHCp3u1rCM8)
+[![SPRINT 1](https://img.youtube.com/vi//0.jpg)]()
 
 ## Sprint 2
 Nesta sprint a A Innov8tion entregou ao nosso cliente Doce Sabor uma proposta de previsão de demanda, esta proposta visa fornecer uma estratégia para prever a demanda de produtos ou serviços, 
 otimizando o planejamento e a eficiência operacional.
 
-[![SPRINT 2](https://img.youtube.com/vi/f-qSDDIk22M/0.jpg)](https://youtu.be/f-qSDDIk22M)
+[![SPRINT 2](https://img.youtube.com/vi//0.jpg)]()
 
 ## Sprint 3
 Nesta sprint a Innov8tion entregou ao nosso cliente Doce Sabor uma proposta de gestão de estoque utilizando o método da curva ABC.
 otimizando o estoque e gerenciamento dos itens.
 
-[![SPRINT 3](https://img.youtube.com/vi/uFAbPZ_nW6Y/0.jpg)](https://youtu.be/uFAbPZ_nW6Y)
+[![SPRINT 3](https://img.youtube.com/vi//0.jpg)]()
 
 ## Sprint 4
 Nesta sprint a Innov8tion entregou ao nosso cliente Doce Sabor uma proposta de novo negocio utilizando a metodologia Canvas. 
 
-[![SPRINT 4](https://img.youtube.com/vi/qEuzFS7AI40/0.jpg)](https://youtu.be/qEuzFS7AI40)
+[![SPRINT 4](https://img.youtube.com/vi//0.jpg)]()
 
 ## Apresentação final
 
-![image](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%204/Feira-de-Solu%C3%A7%C3%B5es/apresenta%C3%A7%C3%A3o%20FInal%20(API-1SEM-INNOV8TION)%20Feira%20de%20solu%C3%A7oes.png)
+![image](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Imagem/github.png)
 
-[(Em processo)](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%204/Feira-de-Solu%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20FInal%20(API-1SEM-INNOV8TION)%20Feira%20de%20solu%C3%A7oes.pdf)
+[(Em processo)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Imagem/github.png)
 
 # 📇Tecnológias Específicas/Apoio
 
 <p align="center">
- <img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/Tecnoligias%20utilida2.png" width="100%"/>
+ <img src="https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Imagem/github.png" width="100%"/>
 </p>
 
 # ⏳Cronograma das Sprints
@@ -99,12 +99,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 # 📋Backlog do produto
 
-![image](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%204/imagem/Apresenta%C3%A7%C3%A3o%20geral%20API.gif)
-[(clique aqui)](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%204/documento/Apresenta%C3%A7%C3%A3o%20geral%20development.pdf)
+![image](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Imagem/github.png)
+[(clique aqui)]()
 # 📋Burndown
 
-![image](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%204/imagem/Apresenta%C3%A7%C3%A3o%20geral%20Burndown%20Finalizado%20.gif)
-[(clique aqui)](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%204/documento/Apresenta%C3%A7%C3%A3o%20geral%20Burndown.pdf)
+![image](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Imagem/github.png)
+[(clique aqui)]()
 ## 📌Sprint 1
 
  * [x] Análise Swot-✅
@@ -181,9 +181,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # 💬Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner|DANIEL MARTINS| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-martins-99349871/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DanielMPJR)|
-|Scrum Master|ANNELIZE MONTEIRO| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/annelize-monteiro-00011060/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/annelizemonteiro)|
+|Product Owner|DANIEL MARTINS| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Scrum Master|ANNELIZE MONTEIRO| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Team Member|ANDERSON CALDERAN| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-calderan-domingues-0a10a8189/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AndersonCalderan)|
-|Team Member|LUCAS PODDIS| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/lucaspoddisgripp)|
-|Team Member|MATEUS GONÇALVES| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Matebr23)|
-|Team Member|MAURICIO JOAQUIM| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-da-silva-joaquim-9a6a0565/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Mauricio-Joaquim)|
+|Team Member|LUCAS PODDIS| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member|MATEUS GONÇALVES| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member|MAURICIO JOAQUIM| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-da-silva-joaquim-9a6a0565/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
