@@ -27,11 +27,11 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 29/08/2023 |concluido| [Ver Relatório]() | 
-|01 | 24/09/2023 |em progresso| [Ver Relatório]() | 
-|02|  15/10/2023|a fazer|[Ver Relatório]() | 
-|03| 05/11/2023 |a fazer|[Ver Relatório]() | 
-|Feira de Soluções|12/12/2023 |a fazer|[Ver Relatório]() | 
+|Kick Off | 27/03/2024 |concluido| [Ver Relatório]() | 
+|01 | 25/04/2024 |em progresso| [Ver Relatório]() | 
+|02|  23/05/2024|a fazer|[Ver Relatório]() | 
+|03| 13/06/2024 |a fazer|[Ver Relatório]() | 
+|Feira de Soluções|27/06/2024 |a fazer|[Ver Relatório]() | 
 
 # 🚦Status do Projeto
 
