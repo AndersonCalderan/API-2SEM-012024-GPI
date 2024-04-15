@@ -103,28 +103,16 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 [(clique aqui)]()
 ## 📌Sprint 1
 
- * [ ] Exemplo-
- * [x] Exemplo-
- * [x] Exemplo-✅
+ * [x] em progresso
 
 ## 📌Sprint 2
 
- * [ ] Exemplo-
- * [x] Exemplo-
- * [x] Exemplo-✅
+ * [ ] a fazer
       
 ## 📌Sprint 3
 
- * [ ] Exemplo-
- * [x] Exemplo-
- * [x] Exemplo-✅
+ * [ ] a fazer
       
-## 📌Sprint 4
-
- * [ ] Exemplo-
- * [x] Exemplo-
- * [x] Exemplo-✅
-
 # 📝Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
