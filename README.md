@@ -1,4 +1,4 @@
-# API-2SEM-012024-GPI-teste
+# API-2SEM-012024-GPI-ONSET
 # 🎓Aprendizado por Projeto Integrado (API)
 
 <p align="center">
@@ -48,11 +48,9 @@ Sprint | Previsão | Status| Histórico|
 A equipe ira realizar um planejamento estratégico para a empresa OSCAR com foco em melhorar o processo de defeito relacionado aos produtos que voltam para a loja após comprado pelo cliente,
 gerando prejuizo para a empresa
 
-* Desenvolver uma análise quantitativa das receitas da empresa Doce Sabor;
-* Desenvolver análise SWOT;
-* Proposta de previsão de demanda.
-* Gestão de estoque utilizando curva ABC.
-* Metodologia Canvas
+* Desenvolver uma análise quantitativa dos produtos com defeito que voltam para a loja;
+* Desenvolver um plano de melhoria;
+* Proposta para redução do prejuizo gerado pela devolução dos produtos.
 
 # 🛠️Funcionalidades e Demonstrações das Sprints
 
