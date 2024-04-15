@@ -91,7 +91,7 @@ Descrição+Video
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-## Cronograma das Sprints[(clique aqui)](https://github.com/users/annelizemonteiro/projects/5)
+## Cronograma das Sprints[(clique aqui)](https://github.com/users/AndersonCalderan/projects/2)
 
 # 📋Backlog do produto
 
