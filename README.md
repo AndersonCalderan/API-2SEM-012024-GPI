@@ -1,4 +1,4 @@
-# API-2SEM-012024-GPI-ONSET
+# API-2SEM-012024-GPI ONSET
 # 🎓Aprendizado por Projeto Integrado (API)
 
 <p align="center">
@@ -83,7 +83,7 @@ Descrição+Video
 # 📇Tecnológias Específicas/Apoio
 
 <p align="center">
- <img src="https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Imagem/github.png" width="100%"/>
+ <img src="https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%201/Imagens/tecnologia.png" width="100%"/>
 </p>
 
 # ⏳Cronograma das Sprints
