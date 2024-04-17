@@ -55,24 +55,19 @@ gerando prejuizo para a empresa
 # 🛠️Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1 
-Descrição+Video
+em progresso
 
 [![SPRINT 1](https://img.youtube.com/vi//0.jpg)]()
 
 ## Sprint 2
-Descrição+Video
+a fazer
 
 [![SPRINT 2](https://img.youtube.com/vi//0.jpg)]()
 
 ## Sprint 3
-Descrição+Video
+a fazer
 
 [![SPRINT 3](https://img.youtube.com/vi//0.jpg)]()
-
-## Sprint 4
-Descrição+Video
-
-[![SPRINT 4](https://img.youtube.com/vi//0.jpg)]()
 
 ## Apresentação final
 
