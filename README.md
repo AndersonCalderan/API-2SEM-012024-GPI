@@ -1,4 +1,4 @@
-# API-2SEM-012024-GPI ONSET
+# API-2°SEM-012024-GPI ONSET
 # 🎓Aprendizado por Projeto Integrado (API)
 
 <p align="center">
