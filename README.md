@@ -78,7 +78,7 @@ Descrição+Video
 
 ![image](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Imagem/github.png)
 
-[(Em processo)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Imagem/github.png)
+[(Em desenvolvimento)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Imagem/github.png)
 
 # 📇Tecnológias Específicas/Apoio
 
@@ -104,7 +104,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 [(clique aqui)]()
 ## 📌Sprint 1
 
- * [x] em progresso
+ * [x] em desenvolvimento
 
 ## 📌Sprint 2
 
