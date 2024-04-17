@@ -99,7 +99,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 [(clique aqui)]()
 # 📋Burndown
 
-![image](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Imagem/github.png)
+![image](https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%201/Imagens/SPRINT%20BURNDOWN.png)
+
 [(clique aqui)]()
 ## 📌Sprint 1
 
