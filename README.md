@@ -57,21 +57,13 @@ gerando prejuizo para a empresa
 ## Sprint 1 
 em progresso
 
-[![SPRINT 1](https://img.youtube.com/vi//0.jpg)]()
-
 ## Sprint 2
-a fazer
 
-[![SPRINT 2](https://img.youtube.com/vi//0.jpg)]()
 
 ## Sprint 3
-a fazer
 
-[![SPRINT 3](https://img.youtube.com/vi//0.jpg)]()
 
 ## Apresentação final
-
-![image](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Imagem/github.png)
 
 [(Em desenvolvimento)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Imagem/github.png)
 
