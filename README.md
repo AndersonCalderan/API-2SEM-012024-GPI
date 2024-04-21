@@ -82,8 +82,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 # 📋Backlog do produto
 
-![image](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Imagem/github.png)
-[(clique aqui)]()
+![image](https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%201/Imagens/Backlog.jpg)
+
 # 📋Burndown
 
 ![image](https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%201/Imagens/SPRINT%20BURNDOWN.png)
