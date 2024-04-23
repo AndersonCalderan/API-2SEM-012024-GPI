@@ -56,7 +56,7 @@ gerando prejuizo para a empresa
 
 ## Sprint 1 
 em progresso
-
+[![SPRINT 1](https://img.youtube.com/vi/Af5tf1YnF4M/0.jpg)](https://youtu.be/Af5tf1YnF4M)
 https://youtu.be/Af5tf1YnF4M
 
 ## Sprint 2
