@@ -28,8 +28,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 27/03/2024 |concluido| [Ver Relatório]() | 
-|01 | 25/04/2024 |em progresso| [Ver Relatório]() | 
-|02|  23/05/2024|a fazer|[Ver Relatório]() | 
+|01 | 25/04/2024 |concluido| [Ver Relatório]() | 
+|02|  23/05/2024|em progresso|[Ver Relatório]() | 
 |03| 13/06/2024 |a fazer|[Ver Relatório]() | 
 |Feira de Soluções|27/06/2024 |a fazer|[Ver Relatório]() | 
 
@@ -55,9 +55,9 @@ gerando prejuizo para a empresa
 # 🛠️Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1 
-em progresso
+
 [![SPRINT 1](https://img.youtube.com/vi/Af5tf1YnF4M/0.jpg)](https://youtu.be/Af5tf1YnF4M)
-https://youtu.be/Af5tf1YnF4M
+
 
 ## Sprint 2
 
