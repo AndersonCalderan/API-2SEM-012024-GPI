@@ -61,6 +61,7 @@ gerando prejuizo para a empresa
 
 ## Sprint 2
 
+[![SPRINT 2](https://img.youtube.com/vi/7RTDxbWEjZ8/0.jpg)](https://youtu.be/7RTDxbWEjZ8)
 
 ## Sprint 3
 
