@@ -92,7 +92,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ![image](https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%203/Documento/Burndown.gif)
 
-[(clique aqui)]()
+
 ## 📌Sprint 1
 
  * [x] em desenvolvimento-✅
