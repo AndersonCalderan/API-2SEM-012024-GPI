@@ -69,7 +69,8 @@ gerando prejuizo para a empresa
 
 ## Apresentação final
 
-[(Em desenvolvimento)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Imagem/github.png)
+[![SPRINT 2](https://img.youtube.com/vi/1-UoUQEoTeA/0.jpg)](https://youtu.be/1-UoUQEoTeA)
+
 
 # 📇Tecnológias Específicas/Apoio
 
